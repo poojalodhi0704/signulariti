@@ -25,6 +25,7 @@ Backend
    3.Run project 
            1.Go to directory base-ws(This directory hosts the webservices)
            2.Run mvn jetty:run . Service will run on http://localhost:8870
+           
  Frontend
 1. Install Node.js and npm
 2. Run npm install to install app dependencies
